@@ -1,0 +1,10 @@
+.navbar {
+    background-color: #FF00FF;
+    color:#FF0000;
+    font-size: large;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+}
+
